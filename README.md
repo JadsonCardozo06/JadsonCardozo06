@@ -13,7 +13,7 @@
 
 
 ## 👨🏽‍💻 What am I studying?:
-![C]() 
+![C]().<br>
 
 
 ## 🔧 Tools:
