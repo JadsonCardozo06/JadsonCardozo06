@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-📚 Hello, my name is Jadson Cardozo and I'm a analysis and systems development student, with interest for Software Engineer area. My objective is to gain experience in I.T to become a qualified professional for any challenge.<br>🌱 Currently in college I'm learning the C language, but on the outside I like to learn different projects in the area .<br> 
+📚 Hello, my name is Jadson Cardozo and I'm a analysis and systems development student, with interest for Software Engineer area. My objective is to gain experience in I.T to become a qualified professional for any challenge.<br>🌱 Currently in college, I'm learning the C language, but on the outside I like to learn different projects in the area .<br> 
 
 
 ## 🌐 Social Media:
