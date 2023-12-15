@@ -13,7 +13,7 @@
 
 
 ## 👨🏽‍💻 What am I studying?:
-![C]().<br>
+ ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 ## 🔧 Tools:
@@ -24,5 +24,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JadsonCardozo06&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<img width="42%" src="link"><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JadsonCardozo0603&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JadsonCardozo06&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JadsonCardozo06&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
